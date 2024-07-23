@@ -19,10 +19,6 @@
 </p>
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagra348)](https://github.com/anuraghazra/github-readme-stats) 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vagra348&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=vagra348)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagra348)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://streak-stats.demolab.com/?user=vagra348)  
 
 
